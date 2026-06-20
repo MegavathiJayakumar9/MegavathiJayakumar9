@@ -1,5 +1,7 @@
 <h1 align="center">Hello!, I'm Megavathi Jayakumar</h1>
-<h3 align="center">A passionate Design Engineer & Software Engineer from India</h3>
+<h3 align="center">As a Software Engineer, my passion lies at the exact intersection of Software, Data, and Design. I specialize in bringing technical blueprints and data insights to life through CAD Design, SQL Development, and Power BI dashboards.
+
+I’m always looking to connect with fellow engineers, data enthusiasts, and creators. Let’s connect and share ideas!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=megavathijayakumar9&label=Profile%20views&color=0e75b6&style=flat" alt="megavathijayakumar9" /> </p>
 
